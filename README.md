@@ -13,6 +13,7 @@
 # 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between programming &amp; programming language &lpar;The Syntactic Sugar of Programming&rpar;](https://safinahmed.hashnode.dev/difference-between-programming-and-programming-language-the-syntactic-sugar-of-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ...
