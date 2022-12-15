@@ -31,9 +31,9 @@
 # My Videos
 
 <!-- YT_VIDEO_LIST:START -->
+- [0. Course Structure | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=QuWA3fxRI80)
 - [Goldbach conjecture implementation in Python](https://www.youtube.com/watch?v=NPR8vE4zI-k)
 - [CS for Non CS 101 Part  - 1 &lpar;Bangla&rpar;](https://www.youtube.com/watch?v=UDwdE6BioS4)
 - [Learn This Keyword in JavaScript in Bangla](https://www.youtube.com/watch?v=SxkkBz1VavA)
 - [15 . Private Class Fields and Methods](https://www.youtube.com/watch?v=nGvpZUT7YRQ)
-- [14.  Protected Properties and Methods](https://www.youtube.com/watch?v=8dZpOZCF9sU)
 <!-- YT_VIDEO_LIST:END -->
