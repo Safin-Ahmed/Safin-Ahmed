@@ -31,9 +31,9 @@
 # My Videos
 
 <!-- YT_VIDEO_LIST:START -->
+- [1.5  Values and Variables | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=5f3Qq9K7TdM)
 - [1.4 Link a JavaScript File | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=4G5guzaXA1w)
 - [1.3  A Brief Introduction To JavaScript | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=pgSDtJxP7JA)
 - [1.2 Hello World | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=JF2ogDJfzWc)
 - [1.1 Intro | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=zHxuGdmOaT0)
-- [0. Course Structure | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=QuWA3fxRI80)
 <!-- YT_VIDEO_LIST:END -->
