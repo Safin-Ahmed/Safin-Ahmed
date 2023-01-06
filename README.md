@@ -32,9 +32,9 @@
 # My Videos
 
 <!-- YT_VIDEO_LIST:START -->
-- [How to be more productive in 2023](https://www.youtube.com/watch?v=xQQFzpzbF_g)
-- [1.5  Values and Variables | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=5f3Qq9K7TdM)
-- [1.4 Link a JavaScript File | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=4G5guzaXA1w)
-- [1.3  A Brief Introduction To JavaScript | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=pgSDtJxP7JA)
-- [1.2 Hello World | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=JF2ogDJfzWc)
+- [1.9  Operator Precedence | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=C_RnWiQ8rCM)
+- [1.8.2  Basic Operators 2 | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=xFjhjipYcCI)
+- [1.7 let, const and var | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=-o_O2mGq-xs)
+- [1.8.1  Basic Operators 1 | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=JbjsnkUw37k)
+- [1.6 Data Types | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=we85VBOAqeQ)
 <!-- YT_VIDEO_LIST:END -->
