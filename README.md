@@ -32,9 +32,9 @@
 # My Videos
 
 <!-- YT_VIDEO_LIST:START -->
+- [1.11 Taking decisions with if else statement.](https://www.youtube.com/watch?v=3L7puGfhk-s)
+- [1.10 Strings and Template Literals](https://www.youtube.com/watch?v=-RPuVNiV6T0)
 - [1.9  Operator Precedence | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=C_RnWiQ8rCM)
 - [1.8.2  Basic Operators 2 | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=xFjhjipYcCI)
 - [1.7 let, const and var | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=-o_O2mGq-xs)
-- [1.8.1  Basic Operators 1 | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=JbjsnkUw37k)
-- [1.6 Data Types | JavaScript Fundamentals | Full JavaScript Course](https://www.youtube.com/watch?v=we85VBOAqeQ)
 <!-- YT_VIDEO_LIST:END -->
