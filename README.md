@@ -32,9 +32,9 @@
 # My Videos
 
 <!-- YT_VIDEO_LIST:START -->
+- [Setting Up Distributed Tracing with OpenTelemetry, Grafana Tempo, Redis, MySQL and Docker Compose](https://www.youtube.com/watch?v=4LD1Tk_BRbw)
 - [I Tried Poridhi’s System Design Lab: Create a Public and Private Subnet in AWS](https://www.youtube.com/watch?v=_tuGlVObq78)
 - [1.14 Equality Operator === vs ==](https://www.youtube.com/watch?v=QgoGgM-Le6g)
 - [1.13 Truthy and Falsy Values](https://www.youtube.com/watch?v=BJsIoH4I0_4)
 - [1.12 Type Conversion and Coersion](https://www.youtube.com/watch?v=M6QPGTabEKc)
-- [1.11 Taking decisions with if else statement.](https://www.youtube.com/watch?v=3L7puGfhk-s)
 <!-- YT_VIDEO_LIST:END -->
