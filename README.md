@@ -32,7 +32,7 @@
 # My Videos
 
 <!-- YT_VIDEO_LIST:START -->
-- [How To Implement VPC Peering In AWS | What and Why VPC Peering](https://www.youtube.com/watch?v=cFOthOvGA-M)
+- [How To Implement VPC Peering In AWS | What and Why VPC Peering | Poridhi Labs](https://www.youtube.com/watch?v=cFOthOvGA-M)
 - [Setting Up Distributed Tracing with OpenTelemetry, Grafana Tempo, Redis, MySQL and Docker Compose](https://www.youtube.com/watch?v=4LD1Tk_BRbw)
 - [I Tried Poridhi’s System Design Lab: Create a Public and Private Subnet in AWS](https://www.youtube.com/watch?v=_tuGlVObq78)
 - [1.14 Equality Operator === vs ==](https://www.youtube.com/watch?v=QgoGgM-Le6g)
