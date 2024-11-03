@@ -32,9 +32,9 @@
 # My Videos
 
 <!-- YT_VIDEO_LIST:START -->
+- [Code Infra With Pulumi &amp; Node App Instrumentation](https://www.youtube.com/watch?v=d2AvBzHb7G4)
 - [Setting Up Poridhi Lab &amp; AWS Credentials](https://www.youtube.com/watch?v=QSkiZkaqBUU)
 - [How To Implement VPC Peering In AWS | What and Why VPC Peering | Poridhi Labs](https://www.youtube.com/watch?v=cFOthOvGA-M)
 - [Setting Up Distributed Tracing with OpenTelemetry, Grafana Tempo, Redis, MySQL and Docker Compose](https://www.youtube.com/watch?v=4LD1Tk_BRbw)
 - [I Tried Poridhi’s System Design Lab: Create a Public and Private Subnet in AWS](https://www.youtube.com/watch?v=_tuGlVObq78)
-- [1.14 Equality Operator === vs ==](https://www.youtube.com/watch?v=QgoGgM-Le6g)
 <!-- YT_VIDEO_LIST:END -->
