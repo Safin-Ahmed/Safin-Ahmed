@@ -32,9 +32,9 @@
 # My Videos
 
 <!-- YT_VIDEO_LIST:START -->
+- [Textalyz Review: The Best AI Slack Tool for Perfect Messages? &lpar;Full Demo &amp; Tutorial!&rpar;](https://www.youtube.com/watch?v=yGGg0Dhel6k)
 - [Expose Grafana Dashboard With Load balancer](https://www.youtube.com/watch?v=uHGEBaJaEfQ)
 - [Setting Up Tracing Pipeline With a Node JS Application](https://www.youtube.com/watch?v=zn2OjKghwtQ)
 - [What, Why and How Tracing?](https://www.youtube.com/watch?v=7daQzm50iUE)
 - [Grafana Dashboard &amp; Load Testing](https://www.youtube.com/watch?v=Cwz3sEPQNQg)
-- [Code Infra With Pulumi &amp; Node App Instrumentation](https://www.youtube.com/watch?v=d2AvBzHb7G4)
 <!-- YT_VIDEO_LIST:END -->
