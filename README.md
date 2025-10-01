@@ -21,11 +21,11 @@
 # 📚 My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside a Process: Memory Layout, Registers, and the Art of Execution](https://safinahmed.hashnode.dev/inside-a-process-memory-layout-registers-and-the-art-of-execution)
 - [Why Database Transactions Matter - A Real Life Example](https://safinahmed.hashnode.dev/why-database-transactions-matter-a-real-life-example)
 - [জাভাস্ক্রিপ্ট এর প্রক্সি ধরা খেলেই চরম শাস্তি!](https://safinahmed.hashnode.dev/intro-to-javascript-proxy-objects)
 - [How to choose the perfect programming language for your application](https://safinahmed.hashnode.dev/how-to-choose-the-perfect-programming-language-for-your-application)
 - [Everything You Need to Know About Programming Paradigms](https://safinahmed.hashnode.dev/everything-you-need-to-know-about-programming-paradigms)
-- [Difference between programming &amp; programming language &lpar;The Syntactic Sugar of Programming&rpar;](https://safinahmed.hashnode.dev/difference-between-programming-and-programming-language-the-syntactic-sugar-of-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ...
