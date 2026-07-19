@@ -33,9 +33,9 @@
 # My Videos
 
 <!-- YT_VIDEO_LIST:START -->
+- [Making Worktree-First Your Default Workflow | Git Worktree Series &lpar;Part 4 /4 &rpar;](https://www.youtube.com/watch?v=oxK3zZmKSO8)
+- [Bare Repos: The Concept That Makes Worktrees Click | Git Worktree Series Part &lpar;3/4&rpar;](https://www.youtube.com/watch?v=Y8NpoS-dNoc)
+- [Setting Up Your First Worktree, Step By Step | Git Worktree Series &lpar;Part 2/4&rpar;](https://www.youtube.com/watch?v=4Dnmeh-R__s)
+- [The Git Worktree Basics Most Devs Skip | Git Worktree Series &lpar;Part 1/4&rpar;](https://www.youtube.com/watch?v=aiYy7jj8wtQ)
 - [Textalyz Review: The Best AI Slack Tool for Perfect Messages? &lpar;Full Demo &amp; Tutorial!&rpar;](https://www.youtube.com/watch?v=yGGg0Dhel6k)
-- [Expose Grafana Dashboard With Load balancer](https://www.youtube.com/watch?v=uHGEBaJaEfQ)
-- [Setting Up Tracing Pipeline With a Node JS Application](https://www.youtube.com/watch?v=zn2OjKghwtQ)
-- [What, Why and How Tracing?](https://www.youtube.com/watch?v=7daQzm50iUE)
-- [Grafana Dashboard &amp; Load Testing](https://www.youtube.com/watch?v=Cwz3sEPQNQg)
 <!-- YT_VIDEO_LIST:END -->
